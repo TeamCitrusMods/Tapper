@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "tapping:block/maple_log_top",
+    "side": "tapping:block/maple_log_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "tapping:block/maple_log_oozing",
+    "side": "tapping:block/maple_log_side",
+    "top": "tapping:block/maple_log_top"
+  }
+}
